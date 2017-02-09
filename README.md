@@ -2,4 +2,4 @@
 
 Hi,
 
-My Name is Blake Ingenthron. I am making a change to the master branch.
+My Name is Blake Ingenthron.
